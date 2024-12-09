@@ -73,4 +73,4 @@ cd ai
 npm install
 
 #start the application
-node app.js  
+node src/app.js  
