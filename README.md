@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aiproject 
 
 This project is a modular system for fetching and delivering personalized video feed recommendations. It includes a `feedController.js` for handling API endpoints and a `fetchService.js` for fetching and preprocessing data from external APIs or databases.
@@ -78,3 +79,6 @@ node app.js
 
 
 
+=======
+# aiproject
+>>>>>>> f3cb8a3f5a1930a946916c2d325a56a502d4d509
